@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/drawable/rounded_button.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/drawable/rounded_button_email.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/drawable/rounded_button_facebook.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/drawable/rounded_button_phone.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/drawable/rounded_button_twitter.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_email.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_facebook.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_google.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_login_information.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_phone.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_display_twitter.xml" value="0.1" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_login_information.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/c1322769/AndroidStudioProjects/MyFirebaseApp2/app/src/main/res/layout/activity_one_input_information.xml" value="0.20104166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

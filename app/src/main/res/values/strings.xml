@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Firebase App</string>
+    <string name="google">Sign in with Google</string>
+    <string name="facebook">Sign in with Facebook</string>
+    <string name="twitter">Sign in with Twitter</string>
+    <string name="email">Sign in with email</string>
+    <string name="phone">Sign in with phone</string>
+    <string name="sign_in_alert">Are you sure you want to sign in with</string>
+    <string name="email_prompt">Please enter your email address below.</string>
+    <string name="email_hint">Email address</string>
+    <string name="google_hint">Gmail</string>
+    <string name="phone_prompt">Please enter your phone number below.</string>
+    <string name="phone_hint">Phone number</string>
+    <string name="OK">Log in</string>
+    <string name="back">Back</string>
+    <string name="twitter_prompt">Please enter your Twitter username and password below.</string>
+    <string name="facebook_prompt">Please enter your Facebook username and password below.</string>
+    <string name="google_prompt">Please enter your Gmail address and password below.</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="email_login_page">Email: </string>
+    <string name="gmail">Gmail: </string>
+    <string name="phone_number">Phone number: </string>
+    <string name="return_to_login_screen">Return to Login Page</string>
+    <string name="login_entered">You have entered the following login information:</string>
+    <string name="login_error">You left a login field blank. Please try again.</string>
+</resources>
